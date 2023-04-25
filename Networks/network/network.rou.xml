@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-04-01 12:20:48 by Eclipse SUMO netedit Version 1.14.1
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <personFlow id="f_0" begin="0.00" end="300.00" personsPerHour="1800.00">
+        <walk from="-E2" to="-E0"/>
+    </personFlow>
+    <personFlow id="f_1" begin="0.00" end="300.00" personsPerHour="1800.00">
+        <personTrip from="-E2" to="E3"/>
+    </personFlow>
+</routes>
